@@ -1,2 +1,3 @@
 # myfirst-demo
-my first github repository
+My first github repository.
+Author - Raj Gupta
